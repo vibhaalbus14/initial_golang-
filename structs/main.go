@@ -12,7 +12,7 @@ func main() {
 	u1.Overwrite_values("vishu", 24)
 	u1.Printvalues()
 	fmt.Println("-------------------------------")
-	u2 := user.NewStudent("Maths", "Pranav", 5, 21)
+	u2 := user.NewStudent("Maths", "hARI", 5, 21)
 	u2.PrintStuValues()
 
 }
