@@ -52,4 +52,5 @@ func main() {
 	productSlice = append(productSlice, newProduct(3, "Eraser", 2))
 	fmt.Println("dynamic array of products after appending 3rd product : ", productSlice)
 	fmt.Println("acessing 3 rd product title from productSlice ", productSlice[2].title)
+
 }
